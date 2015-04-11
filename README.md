@@ -1,6 +1,6 @@
 # Lines Package [![Build Status](https://travis-ci.org/xpol/atom-lines.svg?branch=master)](https://travis-ci.org/xpol/atom-lines)
 
-This is a Atom package that add extra operations to lines:
+An Atom package add extra operations to lines:
 
 * Sort (case sensitive or not)
 * Reverse
