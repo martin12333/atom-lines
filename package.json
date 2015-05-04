@@ -1,9 +1,15 @@
 {
   "name": "lines",
   "description": "Add extra operations to lines: Sort, Reverse, Unique and Shuffle",
-  "keywords": ["lines", "sort", "reverse", "unique", "shuffle"],
+  "keywords": [
+    "lines",
+    "sort",
+    "reverse",
+    "unique",
+    "shuffle"
+  ],
   "main": "./lib/lines",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "activationCommands": {
     "atom-text-editor": [
       "lines:sort",
